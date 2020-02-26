@@ -1,4 +1,6 @@
-# Arduino-security-system By raoufhaiahem@gmail.com
+# Arduino-security-system 
+By raoufhaiahem@gmail.com
+
 Arduino motion detector
 Simple homemade Arduino based alarm system.it warning me when me door opens! It consists of:
   *Arduino Nano
